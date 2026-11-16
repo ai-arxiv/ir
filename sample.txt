@@ -1,0 +1,2 @@
+Python is used for information retrieval.
+Python helps in data processing.

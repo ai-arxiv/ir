@@ -1,0 +1,2 @@
+Natural language processing is used for text analysis.
+Information retrieval and machine learning use text processing.
